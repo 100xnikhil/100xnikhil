@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning DSA in C++<br>🎯 Goals: <br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since 2025<br>📚 I'm currently learning DSA in C++<br>🎯 Goals: <br>🎲 Fun fact: ...</p>
 
 ###
 
