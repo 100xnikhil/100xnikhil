@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm [Divyshresth Vishwakarma]</h1>
+<h1 align="center">Hi 👋, I'm Divyshresth Vishwakarma</h1>
 <h3 align="center">🚀 Full Stack Web Developer | Problem Solver | Tech Enthusiast</h3>
 
 ---
