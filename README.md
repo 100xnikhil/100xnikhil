@@ -1,4 +1,3 @@
-![Full Stack Developer Banner](https://i.ibb.co/7rS2tTJ/dev-banner.png)
 
 <h1 align="center">Hi 👋, I'm [Divyshresth Vishwakarma]</h1>
 <h3 align="center">🚀 Full Stack Web Developer | Problem Solver | Tech Enthusiast</h3>
@@ -51,4 +50,4 @@
 
 ---
 
-⭐️ From [Divyshresth Vishwakarma](https://github.com[DivyshresthVishwakarma])
+⭐️ From [100xnikhil](https://github.com[DivyshresthVishwakarma])
